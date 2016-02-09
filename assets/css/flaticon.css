@@ -1,0 +1,192 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon.eot");
+    src: url("../fonts/flaticon.eot#iefix") format("embedded-opentype"), url("../fonts/flaticon.woff") format("woff"), url("../fonts/flaticon.ttf") format("truetype"), url("../fonts/flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: Flaticon;
+    font-size: 70px;
+    font-style: normal;
+    -webkit-backface-visibility: hidden;
+    line-height: 1;
+}
+/* ================= ICONS ================== */
+.flaticon-2440:before {
+	content: "\e000";
+}
+.flaticon-agreement:before {
+	content: "\e001";
+}
+.flaticon-armchair4:before {
+	content: "\e002";
+}
+.flaticon-bathtub3:before {
+	content: "\e003";
+}
+.flaticon-beach12:before {
+	content: "\e004";
+}
+.flaticon-black134:before {
+	content: "\e005";
+}
+.flaticon-brush20:before {
+	content: "\e006";
+}
+.flaticon-bunk1:before {
+	content: "\e007";
+}
+.flaticon-call37:before {
+	content: "\e008";
+}
+.flaticon-chair8:before {
+	content: "\e009";
+}
+.flaticon-click5:before {
+	content: "\e00a";
+}
+.flaticon-compass48:before {
+	content: "\e00b";
+}
+.flaticon-currency13:before {
+	content: "\e00c";
+}
+.flaticon-dartboard:before {
+	content: "\e00d";
+}
+.flaticon-flower176:before {
+	content: "\e00e";
+}
+.flaticon-hammer26:before {
+	content: "\e00f";
+}
+.flaticon-home115:before {
+	content: "\e010";
+}
+.flaticon-home120:before {
+	content: "\e011";
+}
+.flaticon-info31:before {
+	content: "\e012";
+}
+.flaticon-key105:before {
+	content: "\e013";
+}
+.flaticon-king11:before {
+	content: "\e014";
+}
+.flaticon-kitchen56:before {
+	content: "\e015";
+}
+.flaticon-leaf64:before {
+	content: "\e016";
+}
+.flaticon-light102:before {
+	content: "\e017";
+}
+.flaticon-light7:before {
+	content: "\e018";
+}
+.flaticon-logistics2:before {
+	content: "\e019";
+}
+.flaticon-multiple25:before {
+	content: "\e01a";
+}
+.flaticon-opened17:before {
+	content: "\e01b";
+}
+.flaticon-paint4:before {
+	content: "\e01c";
+}
+.flaticon-painting46:before {
+	content: "\e01d";
+}
+.flaticon-phone322:before {
+	content: "\e01e";
+}
+.flaticon-pie30:before {
+	content: "\e01f";
+}
+.flaticon-pipes:before {
+	content: "\e020";
+}
+.flaticon-plug2:before {
+	content: "\e021";
+}
+.flaticon-question59:before {
+	content: "\e022";
+}
+.flaticon-recognition6:before {
+	content: "\e023";
+}
+.flaticon-shield114:before {
+	content: "\e024";
+}
+.flaticon-sofa9:before {
+	content: "\e025";
+}
+.flaticon-solar6:before {
+	content: "\e026";
+}
+.flaticon-store5:before {
+	content: "\e027";
+}
+.flaticon-studio10:before {
+	content: "\e028";
+}
+.flaticon-talking2:before {
+	content: "\e029";
+}
+.flaticon-tree127:before {
+	content: "\e02a";
+}
+.flaticon-triangular42:before {
+	content: "\e02b";
+}
+.flaticon-triangular45:before {
+	content: "\e02c";
+}
+/* ================= ICON CONTAINERS ================== */
+.main-icon-container {
+    position: relative;
+    margin-left: -20px;
+    margin-right: -20px;
+    display: inline-block;
+}
+.icon-block {
+    position: relative;
+    width: 33%;
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.icon-container {
+    position: relative;
+    text-align: center;
+    margin: 0px auto 30px auto;
+    text-align: center;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    width: 130px;
+    height: 130px;
+    padding-top: 26px;
+}
+.icon-container a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+.icon-text {
+    text-align: center;
+}
+.icon-text h3 {
+    margin-bottom: 20px;
+}

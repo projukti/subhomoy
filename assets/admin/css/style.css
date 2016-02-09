@@ -1,0 +1,10 @@
+#container{border:1px solid red;}
+.header{padding-left:500px;}
+.header p{font-family: sans-serif;font-size: 24px;margin-top: -16px;padding-left: 20px;}
+.left_bar{border:1px solid green; height:auto; background-color:#CCCCCC; width:13%;}
+.left-menu{ text-decoration:none;}
+.left_bar ul{list-style-type:none;}
+.footer{background-color: #999999;border: 1px solid #996666;height: 30px;line-height: 0;padding-top: 0;text-align: center;font-family: serif;font-size: 16px;}
+.login{border:1px solid blue; width: 25%; margin-left: 500px;}
+.input{ margin-left:50px;}
+.home{border: 1px solid green;height: 132px;margin-left: 250px;margin-top: -135px;width: 814px;}
